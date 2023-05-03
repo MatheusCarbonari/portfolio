@@ -10,6 +10,8 @@
 
 * Flex-box
 
+* Responsive
+
 ## Feito por:
 
 ### Matheus Carbonari
